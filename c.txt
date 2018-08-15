@@ -1,5 +1,2 @@
 before merge test/t1
 fwjio
-
-he
-fwe
